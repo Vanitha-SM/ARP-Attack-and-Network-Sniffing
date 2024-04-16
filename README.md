@@ -23,12 +23,15 @@ Open terminal and try execute some kali linux commands
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
-## OUTPUT:
+
+![Uploading image.png…]()
 
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
-## OUTPUT:
+
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/29aba001-c7dd-46d1-af02-f1cd0a48dd5c)
+
 
 
  dsniff:
