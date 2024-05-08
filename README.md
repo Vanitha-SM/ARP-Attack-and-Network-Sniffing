@@ -23,8 +23,10 @@ Open terminal and try execute some kali linux commands
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/4aaa3760-fa61-47f0-b5d8-a27e189ba522)
 
-![Uploading image.png…]()
+
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/4a43f3dc-5a5e-430c-9bd5-8eb7e40aad38)
 
 
 From kali linux issue the command :
@@ -35,16 +37,10 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 
  dsniff:
-
-
-
-
-
-
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/155d5091-7cf6-4021-a380-109b48220adc)
 
 
 In Kali issue the following commands:
