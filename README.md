@@ -26,14 +26,12 @@ In windows 7 give the command arp -a
 ![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/4aaa3760-fa61-47f0-b5d8-a27e189ba522)
 
 
-![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/4a43f3dc-5a5e-430c-9bd5-8eb7e40aad38)
 
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 
-![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/29aba001-c7dd-46d1-af02-f1cd0a48dd5c)
-
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/4a43f3dc-5a5e-430c-9bd5-8eb7e40aad38)
 
 
  dsniff:
@@ -44,12 +42,14 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 
 
 In Kali issue the following commands:
-sudo dsnifff
+sudo dsniff
 ## OUTPUT:
 
-
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/7746b708-d0a9-452a-b511-e52e88a31bd4)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+![image](https://github.com/Vanitha-SM/ARP-Attack-and-Network-Sniffing/assets/119557985/8b74b83c-6ac7-475c-9182-b189f3ce1c0f)
 
 
 ## RESULT:
